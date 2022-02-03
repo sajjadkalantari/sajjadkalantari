@@ -4,7 +4,7 @@ I'm Sajjad Kalantary, Experienced Backend developer (nodejs and .net core) and s
 
 ❤️ I love design patterns and uncle Bob's clean code.
 
-🎮 Game lover
+🎮 Game and Anime lover
 
 👍 I enjoy learning new things
 
