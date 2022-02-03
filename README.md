@@ -6,7 +6,7 @@ I'm Sajjad Kalantary, Experienced Backend developer (nodejs and .net core) and s
 
 🎮 Game lover
 
-👍 I enjoy creating new things
+👍 I enjoy learning new things
 
 📫 How to reach me:
 
